@@ -1,1 +1,1 @@
-<img alt="Views" src="https://0b0b-103-171-37-121.ngrok-free.app/repos/blt/badge/">
+<img alt="Views" src="http://localhost:8000/projects/owasp-zap/badge/" >
